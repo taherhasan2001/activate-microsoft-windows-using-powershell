@@ -3,7 +3,7 @@
 
 ## Instructions:
 
-1. Open PowerShell.
+1. Open PowerShell. 
 2. Run the following command: 
 
 ```
